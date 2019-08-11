@@ -1,0 +1,33 @@
+_repo: Leave-it-to-Psmith_60067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_issued: '2019-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shropshire (England) -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Blandings Castle (England : Imaginary place) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Impostors and imposture -- Fiction'
+- GITenberg
+title: Leave it to Psmith
+url: http://www.gutenberg.org/ebooks/60067
